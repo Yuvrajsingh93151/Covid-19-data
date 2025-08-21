@@ -30,7 +30,6 @@ Regional spread analysis with interactive maps.
 
 🚀 Outcomes
 Gained hands-on experience in data cleaning & transformation using Pandas.
-
 Built a professional Tableau dashboard to present Covid-19 insights.
 
 Improved understanding of real-world data analysis workflow.
